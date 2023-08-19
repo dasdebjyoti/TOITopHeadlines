@@ -1,3 +1,7 @@
+# This program scrapes a web page from Times of India to extract
+# top headlines and prints it in the output window.
+# Author: Debjyoti Das
+
 import requests
 from bs4 import BeautifulSoup
 
